@@ -90,8 +90,6 @@ step1: create this using routing  , home users about contact
 useSelector hook - To Access data from redux
 explanaton: state is reducer userfinfo from store users from slice 
 
-day10:
-
 day11:
 compass:
 compass helps to fetch data from mongo db from mongo dv server means compass helps u to reach mongo db.. like its client 
@@ -138,8 +136,6 @@ when a web page request information froma  resource (from anyu other sites ), wh
 
 commands to install npm i axios 
 npm i cros
-
-note: so 
 
 
 next day: User.js one file, second file update.js tird 
